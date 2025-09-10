@@ -1,0 +1,15 @@
+D:\Sem 4\Web Development\Practicals\Lab 13\BudgetTracker\BudgetTracker\bin\BudgetTracker.dll
+D:\Sem 4\Web Development\Practicals\Lab 13\BudgetTracker\BudgetTracker\bin\BudgetTracker.pdb
+D:\Sem 4\Web Development\Practicals\Lab 13\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csprojResolveAssemblyReference.cache
+D:\Sem 4\Web Development\Practicals\Lab 13\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.dll
+D:\Sem 4\Web Development\Practicals\Lab 13\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.pdb
+C:\Users\princ\Desktop\BudgetTracker\BudgetTracker\bin\BudgetTracker.dll
+C:\Users\princ\Desktop\BudgetTracker\BudgetTracker\bin\BudgetTracker.pdb
+C:\Users\princ\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csprojResolveAssemblyReference.cache
+C:\Users\princ\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.dll
+C:\Users\princ\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.pdb
+C:\Users\kathl\OneDrive\Desktop\BudgetTracker\BudgetTracker\BudgetTracker\bin\BudgetTracker.dll
+C:\Users\kathl\OneDrive\Desktop\BudgetTracker\BudgetTracker\BudgetTracker\bin\BudgetTracker.pdb
+C:\Users\kathl\OneDrive\Desktop\BudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csprojResolveAssemblyReference.cache
+C:\Users\kathl\OneDrive\Desktop\BudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.dll
+C:\Users\kathl\OneDrive\Desktop\BudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.pdb
